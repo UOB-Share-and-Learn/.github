@@ -34,15 +34,20 @@ Our goal is to make it easier for students to **access materials from different 
 ```
 CourseMaterials/
 │
-├─ 📘 Year1/
-│   ├─ 📐 Math/
+├─ CourseName/
+│   │
+│   ├─ 📘 Year1/
+│   │   ├─ Week 1/
+│   │   │   ├─ Lecture1.pdf
+│   │   │   └─ Summary.md
+│   │   ├─ Week 2/
 │   │   ├─ Lecture1.pdf
-│   │   └─ Summary.md
-│   ├─ 🧪 Physics/
-│   └─ 💻 CS/
-│
-├─ 📙 Year2/
-│   ├─ 💰 Economics/
+│   │   │   └─ Summary.md
+│   │   └─ ...
+│   │
+│   ├─ 📙 Year2/
+│   │   ├─ Week 1/
+│   │   └─ ...
 │   └─ ...
 │
 └─ 🌐 Shared/
