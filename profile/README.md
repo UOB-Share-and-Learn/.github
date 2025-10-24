@@ -10,7 +10,9 @@
   <b>Student-driven · Interdisciplinary · Open & Collaborative</b>
 </p>
 
-Whasapp Link: https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf
+Whasapp Link: 
+  https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf
+  https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV
 
 ---
 
