@@ -1,4 +1,4 @@
-# University-of-Birmingham-Student
+# UOB Share & Learn
 
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Birmingham-Course%20Materials-blue?style=for-the-badge" alt="Project Badge"/>
