@@ -11,26 +11,8 @@
 </p>
 
 **WhatsApp Links:**  
-- [Join Chat 1](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
-- [Join Chat 2](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YourOrg/YourRepo?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/YourOrg/YourRepo?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/watchers/YourOrg/YourRepo?style=social" alt="Watchers"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourOrg&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourOrg&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+- [WhatsApp](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
+- [WhatsApp](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
 
 ---
 
@@ -131,10 +113,6 @@ Use **Discussions** or **Issues** to:
 
 Thank you to all contributors!  
 Your notes, summaries, lecture slides, questions, and answers are the **core** of this platform 🙏
-
-<p align="center">
-  <img src="https://github-contributors.vercel.app/api?username=YourOrg&repo=YourRepo&count=15&size=60&radius=50" alt="Top Contributors"/>
-</p>
 
 ---
 
