@@ -1,5 +1,7 @@
 # UOB Share & Learn
 
+![Logo](https://github.com/user-attachments/assets/98e14024-d63b-4e43-b482-dd9de705a702)
+
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Birmingham-Course%20Materials-blue?style=for-the-badge" alt="Project Badge"/>
 </p>
@@ -11,8 +13,8 @@
 </p>
 
 **WhatsApp Links:**  
-- [Join Chat 1](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
-- [Join Chat 2](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
+- [WhatsApp](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
+- [WhatsApp](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
 
 ---
 
