@@ -1,7 +1,5 @@
 # UOB Share & Learn
 
-![Logo](https://github.com/user-attachments/assets/98e14024-d63b-4e43-b482-dd9de705a702)
-
 <p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Birmingham-Course%20Materials-blue?style=for-the-badge" alt="Project Badge"/>
 </p>
@@ -13,8 +11,26 @@
 </p>
 
 **WhatsApp Links:**  
-- [WhatsApp](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
-- [WhatsApp](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
+- [Join Chat 1](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
+- [Join Chat 2](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YourOrg/YourRepo?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/YourOrg/YourRepo?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/YourOrg/YourRepo?style=social" alt="Watchers"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourOrg&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourOrg&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -35,19 +51,19 @@ Our goal is to make it easier for students to **access materials from different 
 
 ### Student Group Aims and Objectives
 
-- **Knowledge Sharing** – To create a platform for students to share high-quality learning materials, notes, and study experiences across different courses and disciplines.  
-- **Interdisciplinary Collaboration** – To encourage collaboration between students from various fields, fostering innovative thinking through joint projects, discussions, and workshops.  
-- **Skills Development** – To help members improve practical, academic, and career-related skills through workshops, training sessions, and mentorship opportunities.  
-- **Community Building** – To establish a supportive and engaging student community, where members can network, seek help, and collaborate on academic or personal projects.  
-- **Innovation and Entrepreneurship** – To inspire students to explore creative ideas and entrepreneurial initiatives by providing resources, guidance, and opportunities to showcase their projects.  
+- **Knowledge Sharing** – Share high-quality learning materials, notes, and study experiences.  
+- **Interdisciplinary Collaboration** – Foster collaboration between students from various fields.  
+- **Skills Development** – Improve practical, academic, and career-related skills.  
+- **Community Building** – Create a supportive and engaging student community.  
+- **Innovation and Entrepreneurship** – Inspire creative ideas and entrepreneurial initiatives.  
 
 ### Planned Activities
 
-- **Regular Networking Events** – Host periodic gatherings where students can meet, share experiences, and build connections across disciplines.  
-- **Interdisciplinary Talks & Workshops** – Organize lectures and workshops led by students or guest speakers from different fields to foster cross-disciplinary learning.  
-- **Casual Social Events** – Arrange informal events such as afternoon teas or coffee meetups to strengthen the community and encourage relaxed interaction.  
-- **Collaborative Projects & Study Groups** – Facilitate student-led projects and study sessions that bring together members from various courses.  
-- **Resource Sharing & Discussion Forums** – Provide platforms for members to share study materials, resources, and discuss academic or practical challenges.  
+- **Networking Events** – Periodic gatherings for cross-disciplinary interaction.  
+- **Interdisciplinary Talks & Workshops** – Lectures and workshops from students or guest speakers.  
+- **Casual Social Events** – Informal events to strengthen the community.  
+- **Collaborative Projects & Study Groups** – Student-led projects across courses.  
+- **Resource Sharing & Discussion Forums** – Share study materials and discuss challenges.
 
 ---
 
@@ -79,38 +95,35 @@ CourseMaterials/
 
 ## ✍️ How to Contribute
 
-We warmly welcome contributions from everyone!  
-
 ### 1️⃣ Fork & Pull Request
-1. Click the **Fork** button at the top right  
+1. Click **Fork**  
 2. Add your materials to the correct folder  
 3. Submit a **Pull Request (PR)**  
-4. A maintainer will review and merge your contribution  
+4. Maintainer reviews and merges
 
 ### 2️⃣ Submit via Issues
-If you're not familiar with Git:  
 - Go to **Issues**  
-- Create a new Issue and attach your materials or links  
-- We’ll help organize and upload it for you  
+- Create a new Issue with materials or links  
+- We organize and upload for you
 
 ---
 
 ## 🧠 Discussions & Q&A
 
 Use **Discussions** or **Issues** to:  
-- Ask questions across different subjects  
+- Ask questions across subjects  
 - Discuss lecture content, assignments, or concepts  
 - Share insights and help others  
 
-> Please keep discussions respectful and constructive. No spam, discrimination, or offensive content.
+> Keep discussions respectful and constructive. No spam, discrimination, or offensive content.
 
 ---
 
 ## ⚠️ Copyright Notice
 
-- Upload **only** materials that are **your own work**, **authorized to share**, or **public domain**  
-- Do not upload copyrighted textbooks, slides, or other protected content without permission  
-- Any infringing content will be removed immediately, and repeat offenders may be banned
+- Upload **only** your work, authorized to share, or public domain  
+- Do not upload copyrighted materials without permission  
+- Violations will be removed; repeat offenders may be banned
 
 ---
 
@@ -119,11 +132,15 @@ Use **Discussions** or **Issues** to:
 Thank you to all contributors!  
 Your notes, summaries, lecture slides, questions, and answers are the **core** of this platform 🙏
 
+<p align="center">
+  <img src="https://github-contributors.vercel.app/api?username=YourOrg&repo=YourRepo&count=15&size=60&radius=50" alt="Top Contributors"/>
+</p>
+
 ---
 
 ## 📬 Feedback & Contact
 
-If you have suggestions, ideas, or would like to collaborate, feel free to open an [Issue](./issues) or contact the project maintainers.
+Open an [Issue](./issues) or contact maintainers for suggestions, ideas, or collaborations.
 
 ---
 
