@@ -14,6 +14,11 @@
 - [WhatsApp](https://chat.whatsapp.com/L2KNvtjAffWKFKmbBzTOlf)  
 - [WhatsApp](https://chat.whatsapp.com/FNNR0caLAA5D3nAWCTREwV)
 
+To get access to our GitHub database, please make sure you have a GitHub account and share your username with the administrator.
+
+After you receive the invitation, confirm it through your email or on our GitHub page 
+  — then you’ll be able to view all databases or contribute to the project.
+
 ---
 
 ## 🧭 Project Overview
